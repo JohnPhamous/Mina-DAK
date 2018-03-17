@@ -1,0 +1,12 @@
+{
+  "name": "Mina-DAK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JohnPhamous/Mina-DAK.git",
+  "author": "John Pham <johnphammail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-emoji": "^1.8.1",
+    "twit": "^2.2.9"
+  }
+}
